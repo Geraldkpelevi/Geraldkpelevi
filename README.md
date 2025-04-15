@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geraldkpelevi
-- 👀 I’m interested in software development, coding and building cool projects.
-- 🌱 I’m currently learning frontend development.
+- 👀 I’m a front-end developer.
+- 🌱 I’m currently working with one of the top tech companies in Ghana.
 - 💞️ I’m looking to collaborate on open-source projects 
 - 📫 How to reach me { davigerald155@Gmail.com }
 - 😄 Pronouns: gerald
